@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Novica/Downloads/proto-buf/protobuf-java-3.2.0.jar" sourcepath="C:/Users/Novica/.m2/repository/com/google/protobuf/protobuf-java/3.2.0/protobuf-java-3.2.0-sources.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
